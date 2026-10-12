@@ -47,6 +47,7 @@ https://github.com/MVRonkin/Computer-Vision-Course_lec-practice/blob/main/2025/R
 * [Zero-to-Mastery learn pytorch](https://www.learnpytorch.io/)
 * [HF compunity CV course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)
 * [autonomous-vision course](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
+* [VisualGenAI ШАД](https://github.com/dbaranchuk/VisualGenAI)
 
 ## еще более доп. лит.
 * [курс по дифузионкам](https://arxiv.org/pdf/2406.08929)
